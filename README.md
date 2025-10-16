@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <b>`print("hello world")`</b>
+  <b>print("hello world")</b>
   <samp>
     <br>
     Hi there! I'm <b>Mateus Miranda</b>
@@ -79,9 +79,9 @@
     <samp><b>Contact me:</b></samp>
     <br><br>
 
-    [![Gmail](https://img.shields.io/badge/gmail-000000?style=for-the-badge&logo=gmail)](mailto:mateusmirandadf@gmail.com)
-    [![Instagram](https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram)](https://www.instagram.com/__mikkes/)
-    [![LinkedIn](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mike-miranda-b9980a2ba/)
+  [![Gmail](https://img.shields.io/badge/gmail-000000?style=for-the-badge&logo=gmail)](mailto:mateusmirandadf@gmail.com)
+  [![Instagram](https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram)](https://www.instagram.com/__mikkes/)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mike-miranda-b9980a2ba/)
   </div>
 
   <div align="center">
