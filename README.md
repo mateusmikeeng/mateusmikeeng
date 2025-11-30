@@ -5,7 +5,7 @@
     width="500" 
     height="500" 
     alt="image" 
-    src=<img align="center" height="150" src="https://github.com/mateusmikeeng/imagem/blob/master/pokemon-lugia-render-lugia-hd-bird-animal-flying-waterfowl-transparent-png-2883461.png" />
+    src="https://github.com/user-attachments/assets/ce6037bc-ffcc-4398-adc7-51f3e2974770"
 </div>
 
 <div align="center">
