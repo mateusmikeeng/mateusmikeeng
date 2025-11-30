@@ -5,7 +5,7 @@
     width="500" 
     height="500" 
     alt="image" 
-    src="[(https://github.com/mateusmikeeng/imagem/blob/f0131afedb0d4bad0fe036daa8ad8860528a17fd/R.png)]"
+    src=https://github.com/mateusmikeeng/imagem/blob/master/R.png
 </div>
 
 <div align="center">
