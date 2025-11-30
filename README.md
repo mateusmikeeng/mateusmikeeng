@@ -5,8 +5,7 @@
     width="500" 
     height="500" 
     alt="image" 
-    src="<img width="860" height="796" alt="R" src="https://github.com/user-attachments/assets/fa735288-177b-4bea-a6e7-ad7e97aa4dc0"/>
-  />
+    src="<img width="860" height="796" alt="R" src="https://github.com/user-attachments/assets/fa735288-177b-4bea-a6e7-ad7e97aa4dc0"
 </div>
 
 <div align="center">
